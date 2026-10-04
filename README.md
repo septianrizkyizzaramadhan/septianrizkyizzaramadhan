@@ -10,7 +10,7 @@ Currently focused on **React, Next.js, Node.js, and modern web development** —
 
 ### About Me
 
-* Building my personal portfolio at **[rephy.vercel.app]()**
+* Building my personal portfolio at **[rephy.vercel.app](https://personal-website-beta-three-76.vercel.app/)**
 * Currently learning **TypeScript & PostgreSQL**
 * Interested in **Web Development, Backend Systems & AI**
 * Open to **freelance projects & collaborations**
